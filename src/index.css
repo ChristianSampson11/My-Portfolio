@@ -1,5 +1,6 @@
 @import url('https://googleapis.com');
 
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
@@ -63,19 +64,18 @@ body {
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
-  border-inline: 1px solid var(--border);
   min-height: 100svh;
   display: flex;
   flex-direction: column;
-  box-sizing: border-box;
-  
 }
 
 html, body, #root{
+  
   width: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  min-height: 100%;
+  background-color: #212529;
 }
 
 h1,

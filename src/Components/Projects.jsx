@@ -24,10 +24,10 @@ function Projects() {
                                         className="d-flex justify-content-center flex-wrap gap-4">
 
                                     <ProjectCards 
-                                        title = "Service Site"
-                                        description = "A site that will present services offered by a specialist, such as a dentist, a bike repair shop, or hairdresser."
-                                        image = "../assets/service.jpeg"
-                                        Link = "/Service"
+                                        title = "Quick Cutz - Service Site"
+                                        description = "This is my service website, a high-fidelty prototype of a local hairdresser business."
+                                        image = "../assets/QuickCurz.png"
+                                        Link = "https://quick-cutz.netlify.app/"
                                     />
 
                                     <ProjectCards
