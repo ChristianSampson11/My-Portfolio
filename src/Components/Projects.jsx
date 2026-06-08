@@ -26,7 +26,7 @@ function Projects() {
                                     <ProjectCards 
                                         title = "Quick Cutz - Service Site"
                                         description = "This is my service website, a high-fidelty prototype of a local hairdresser business."
-                                        image = "../assets/QuickCurz.png"
+                                        image = "/assets/QuickCurz.png"
                                         Link = "https://quick-cutz.netlify.app/"
                                     />
 
