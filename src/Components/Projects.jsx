@@ -34,7 +34,7 @@ function Projects() {
                                         title = "Repeat After Me! - Memory Game"
                                         description = "This is my personal adaptation of Simon Says, called Repeat After Me! A memory game."
                                         image = "../assets/RepeatAfterMe.png"
-                                        Link = "/Game"
+                                        Link = "https://memory-game-simon-says.netlify.app/"
                                     />
 
                                     <ProjectCards
