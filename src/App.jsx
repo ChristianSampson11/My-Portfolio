@@ -7,10 +7,8 @@ import './App.css'
 import ScrollToHash from "./Components/ScrollToHash";
 import Projects from './Components/Projects'
 import HomePage from './Pages/HomePage'
-import Service from './Pages/Service'
 import Commerce from './Pages/Commerce'
 import Analytics from './Pages/Analytics'
-import Game from './Pages/Game'
 
 function App() {
   return (
