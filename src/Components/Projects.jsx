@@ -31,9 +31,9 @@ function Projects() {
                                     />
 
                                     <ProjectCards
-                                        title = "Memory Game"
-                                        description = "This project will eventually turn into a memory game, challenging you to test your skills!"
-                                        image = "../assets/memory.png"
+                                        title = "Repeat After Me! - Memory Game"
+                                        description = "This is my personal adaptation of Simon Says, called Repeat After Me! A memory game."
+                                        image = "../assets/RepeatAfterMe.png"
                                         Link = "/Game"
                                     />
 
