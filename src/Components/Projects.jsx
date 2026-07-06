@@ -38,7 +38,7 @@ function Projects() {
                                     />
 
                                     <ProjectCards
-                                        title = "E-Commerce"
+                                        title = "Baseball Warehouse - E-Commerce Site"
                                         description = "This is my E-Commerce Site named Baseball Warehouse, an online baseball store."
                                         image = "../assets/BaseballWarehouse.png"
                                         Link = "https://baseball-warehouse.netlify.app/"
