@@ -39,9 +39,9 @@ function Projects() {
 
                                     <ProjectCards
                                         title = "E-Commerce"
-                                        description = "This assignment will eventually be developed into a fully-fledged E-commerce site, to shop for your favoruite items."
-                                        image = "../assets/shop.png"
-                                        Link = "/Commerce"
+                                        description = "This is my E-Commerce Site named Baseball Warehouse, an online baseball store."
+                                        image = "../assets/BaseballWarehouse.png"
+                                        Link = "https://baseball-warehouse.netlify.app/"
                                     />
 
                                     <ProjectCards
