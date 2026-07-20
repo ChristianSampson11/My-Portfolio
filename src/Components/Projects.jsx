@@ -45,7 +45,7 @@ function Projects() {
                                     />
 
                                     <ProjectCards
-                                        title = "Baseball Jays Analytical Dashboard"
+                                        title = "Blue Jays Analytical Dashboard"
                                         description = "This is my Bilingual Analytical Dashboard of Toronto Blue Jays Players, and the AL East."
                                         image = "../assets/Analytical.png"
                                         Link = "https://blue-jays-analytical-dashboard.netlify.app/"
