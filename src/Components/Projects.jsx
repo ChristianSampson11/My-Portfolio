@@ -45,10 +45,10 @@ function Projects() {
                                     />
 
                                     <ProjectCards
-                                        title = "Baseball Analytics"
-                                        description = "This deliverable will represent a baseball analytics site, showing the hotters hitters and toughest to hit against pitchers in the MLB!"
-                                        image = "../assets/mlb.png"
-                                        Link = "/Analytics"
+                                        title = "Baseball Jays Analytical Dashboard"
+                                        description = "This is my Bilingual Analytical Dashboard of Toronto Blue Jays Players, and the AL East."
+                                        image = "../assets/Analytical.png"
+                                        Link = "https://blue-jays-analytical-dashboard.netlify.app/"
                                     />
                                 </div>  {/* Text contents, including header style and size, and text */}
                             </div>
